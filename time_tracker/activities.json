@@ -1,0 +1,151 @@
+{
+    "activities": [
+        {
+            "name": "web.whatsapp.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-05-18 14:07:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 30,
+                    "start_time": "2023-05-18 14:06:56",
+                    "tab_open_time": "0:00:33.463962"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-05-18 14:08:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 45,
+                    "start_time": "2023-05-18 14:07:39",
+                    "tab_open_time": "0:01:32.206722"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-05-18 14:11:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2023-05-18 14:10:57",
+                    "tab_open_time": "0:04:14.759872"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-05-18 14:07:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2023-05-18 14:07:26",
+                    "tab_open_time": "0:00:46.553005"
+                }
+            ]
+        },
+        {
+            "name": "\n",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-05-18 14:08:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2023-05-18 14:08:25",
+                    "tab_open_time": "0:01:38.680774"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-05-18 14:09:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2023-05-18 14:08:58",
+                    "tab_open_time": "0:02:15.094162"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-05-18 14:10:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 53,
+                    "start_time": "2023-05-18 14:09:19",
+                    "tab_open_time": "0:03:20.031394"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-05-18 14:11:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 20,
+                    "start_time": "2023-05-18 14:11:07",
+                    "tab_open_time": "0:04:35.464283"
+                }
+            ]
+        },
+        {
+            "name": "mohit",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-05-18 14:08:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2023-05-18 14:08:31",
+                    "tab_open_time": "0:01:49.957589"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-05-18 14:08:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2023-05-18 14:08:54",
+                    "tab_open_time": "0:02:05.057631"
+                }
+            ]
+        },
+        {
+            "name": "time_tracker \u2013 activities.json",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-05-18 14:08:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2023-05-18 14:08:43",
+                    "tab_open_time": "0:02:01.489962"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-05-18 14:09:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2023-05-18 14:09:08",
+                    "tab_open_time": "0:02:26.807956"
+                }
+            ]
+        },
+        {
+            "name": "Network Connections",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-05-18 14:10:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 44,
+                    "start_time": "2023-05-18 14:10:13",
+                    "tab_open_time": "0:04:04.465926"
+                }
+            ]
+        }
+    ]
+}

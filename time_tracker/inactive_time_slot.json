@@ -1,0 +1,52 @@
+[
+  {
+    "inactive_start_time": "2023-05-18 14:06:57",
+    "inactive_end_time": "2023-05-18 14:06:58",
+    "inactive_time": "00:00:01"
+  },
+  {
+    "inactive_start_time": "2023-05-18 14:07:02",
+    "inactive_end_time": "2023-05-18 14:08:26",
+    "inactive_time": "00:01:24"
+  },
+  {
+    "inactive_start_time": "2023-05-18 14:08:34",
+    "inactive_end_time": "2023-05-18 14:08:37",
+    "inactive_time": "00:00:03"
+  },
+  {
+    "inactive_start_time": "2023-05-18 14:08:48",
+    "inactive_end_time": "2023-05-18 14:08:49",
+    "inactive_time": "00:00:01"
+  },
+  {
+    "inactive_start_time": "2023-05-18 14:09:23",
+    "inactive_end_time": "2023-05-18 14:09:23",
+    "inactive_time": "00:00:00"
+  },
+  {
+    "inactive_start_time": "2023-05-18 14:09:58",
+    "inactive_end_time": "2023-05-18 14:10:07",
+    "inactive_time": "00:00:09"
+  },
+  {
+    "inactive_start_time": "2023-05-18 14:10:35",
+    "inactive_end_time": "2023-05-18 14:10:36",
+    "inactive_time": "00:00:01"
+  },
+  {
+    "inactive_start_time": "2023-05-18 14:10:51",
+    "inactive_end_time": "2023-05-18 14:10:52",
+    "inactive_time": "00:00:01"
+  },
+  {
+    "inactive_start_time": "2023-05-18 14:10:57",
+    "inactive_end_time": "2023-05-18 14:10:59",
+    "inactive_time": "00:00:02"
+  },
+  {
+    "inactive_start_time": "2023-05-18 14:11:32",
+    "inactive_end_time": "2023-05-18 14:11:37",
+    "inactive_time": "00:00:05"
+  }
+]
